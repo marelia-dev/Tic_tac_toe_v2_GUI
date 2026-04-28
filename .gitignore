@@ -1,0 +1,37 @@
+# ================== Python ==================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+pip-log.txt
+
+# ================== Virtual Environment ==================
+venv/
+.venv/
+env/
+
+# ================== PyCharm / IDE ==================
+.idea/
+*.iml
+*.iws
+
+# ================== Build & PyInstaller ==================
+build/
+dist/
+*.spec
+
+# ================== Game Data ==================
+zaidejai.pkl
+
+# ================== Qt / UI ==================
+ui/*.py
+*.ui
+
+# ================== OS Junk ==================
+Thumbs.db
+.DS_Store
+*.log
+
+# ================== Temporary ==================
+*.tmp
