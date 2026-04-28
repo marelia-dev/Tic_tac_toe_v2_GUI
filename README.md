@@ -4,8 +4,13 @@
 
 **Classic Tic-Tac-Toe with a modern graphical interface**
 
+### How to Download & Play
+1. Go to the **[Releases page](https://github.com/marelia-dev/Tic_tac_toe_v2_GUI/releases)**
+2. Download the latest version
+3. Run **`TTT.v2.gui.exe`**
+
 ### Features
-- Beautiful GUI built with **PyQt6**
+- Beautiful GUI built with **PyQt6 + Qt Designer**
 - 3 AI difficulty levels:
   - Easy
   - Medium
@@ -17,11 +22,7 @@
 ### Screenshot
 ![Main Menu](screenshot.png)
 
-### How to Play
-Just run the executable:
-
-dist/TTT.v2.gui.exe
-text### About
+### About
 - **Interface Language**: Lithuanian
 - **Author**: marelia-dev
 - **Version**: 2.0
