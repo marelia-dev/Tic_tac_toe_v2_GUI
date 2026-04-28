@@ -20,6 +20,7 @@ env/
 build/
 dist/
 *.spec
+output/
 
 # ================== Game Data ==================
 zaidejai.pkl
@@ -35,3 +36,6 @@ Thumbs.db
 
 # ================== Temporary ==================
 *.tmp
+
+!exe/
+!exe/*.exe
